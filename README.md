@@ -105,7 +105,7 @@ Working through this project gave me practical experience in:
 
 **Afrid Shaik** — Cyber GRC & Compliance Analyst
 
-1.5+ years professional experience across GRC Analyst and Information Security Analyst roles. MSc Cybersecurity (Advanced Research, 2:1) — University of Hertfordshire. Certifications: CompTIA Security+, CEH, OneTrust TPRM Expert. ISO 27001 Lead Implementer in progress.
+3+ years professional experience across GRC Analyst and Information Security Analyst roles. MSc Cybersecurity (Advanced Research, 2:1) — University of Hertfordshire. Certifications: CompTIA Security+, CEH, OneTrust TPRM Expert. ISO 27001 Lead Implementer in progress.
 
 - LinkedIn: [www.linkedin.com/in/afridshaik-grcuk]
 - GitHub: [github.com/Afridi4u14]
